@@ -1,1 +1,0 @@
-let cont=document.wuery
